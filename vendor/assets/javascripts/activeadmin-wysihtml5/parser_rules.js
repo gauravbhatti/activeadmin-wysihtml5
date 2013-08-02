@@ -32,7 +32,9 @@
  *    ... becomes ...
  *    <div class="wysiwyg-text-align-center">hello</div>
  */
-var wysihtml5ParserRules = {
+var wysihtml5ParserRules = {}
+
+var wysihtml5ParserRulesOld = {
   /**
    * CSS Class white-list
    * Following CSS classes won't be removed when parsed by the wysihtml5 HTML parser
