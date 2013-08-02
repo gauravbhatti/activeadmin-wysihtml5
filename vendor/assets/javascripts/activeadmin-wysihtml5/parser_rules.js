@@ -74,6 +74,9 @@ var wysihtml5ParserRules = {
     "wysiwyg-text-align-left": 1,
     "wysiwyg-text-align-right": 1
   },
+  "ids": {
+    "header": 1,
+  },
   /**
    * Tag list
    *
